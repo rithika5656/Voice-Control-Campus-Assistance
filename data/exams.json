@@ -1,0 +1,127 @@
+{
+    "upcoming_exams": {
+        "CSE": [
+            {
+                "subject": "Data Structures",
+                "date": "2026-01-10",
+                "day": "Saturday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall A",
+                "type": "Internal"
+            },
+            {
+                "subject": "Operating Systems",
+                "date": "2026-01-12",
+                "day": "Monday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall B",
+                "type": "Internal"
+            },
+            {
+                "subject": "Database Management",
+                "date": "2026-01-14",
+                "day": "Wednesday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall A",
+                "type": "Internal"
+            },
+            {
+                "subject": "Computer Networks",
+                "date": "2026-01-16",
+                "day": "Friday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall C",
+                "type": "Internal"
+            },
+            {
+                "subject": "Algorithm Design",
+                "date": "2026-01-18",
+                "day": "Sunday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall B",
+                "type": "Internal"
+            }
+        ],
+        "ECE": [
+            {
+                "subject": "Digital Electronics",
+                "date": "2026-01-10",
+                "day": "Saturday",
+                "time": "2:00 PM - 5:00 PM",
+                "room": "Exam Hall C",
+                "type": "Internal"
+            },
+            {
+                "subject": "Signals & Systems",
+                "date": "2026-01-12",
+                "day": "Monday",
+                "time": "2:00 PM - 5:00 PM",
+                "room": "Exam Hall A",
+                "type": "Internal"
+            },
+            {
+                "subject": "Microprocessors",
+                "date": "2026-01-14",
+                "day": "Wednesday",
+                "time": "2:00 PM - 5:00 PM",
+                "room": "Exam Hall B",
+                "type": "Internal"
+            },
+            {
+                "subject": "Communication Systems",
+                "date": "2026-01-16",
+                "day": "Friday",
+                "time": "2:00 PM - 5:00 PM",
+                "room": "Exam Hall C",
+                "type": "Internal"
+            }
+        ],
+        "MECH": [
+            {
+                "subject": "Thermodynamics",
+                "date": "2026-01-11",
+                "day": "Sunday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall D",
+                "type": "Internal"
+            },
+            {
+                "subject": "Fluid Mechanics",
+                "date": "2026-01-13",
+                "day": "Tuesday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall D",
+                "type": "Internal"
+            },
+            {
+                "subject": "Machine Design",
+                "date": "2026-01-15",
+                "day": "Thursday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall D",
+                "type": "Internal"
+            },
+            {
+                "subject": "Manufacturing",
+                "date": "2026-01-17",
+                "day": "Saturday",
+                "time": "10:00 AM - 1:00 PM",
+                "room": "Exam Hall D",
+                "type": "Internal"
+            }
+        ]
+    },
+    "semester_exams": {
+        "start_date": "2026-02-15",
+        "end_date": "2026-03-05",
+        "schedule_release": "2026-02-01",
+        "status": "Schedule will be released soon"
+    },
+    "exam_rules": [
+        "Students must carry their ID card to the exam hall",
+        "Entry is not allowed 30 minutes after exam start",
+        "No electronic devices allowed inside exam hall",
+        "Students must sit in their assigned seats only",
+        "Use only blue or black pen for writing answers"
+    ]
+}

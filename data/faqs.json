@@ -1,0 +1,54 @@
+{
+    "faqs": [
+        {
+            "question": "How do I apply for a leave?",
+            "keywords": ["leave", "apply", "absence", "absent"],
+            "answer": "To apply for leave, you need to fill out the leave application form available at your department office or download it from the student portal. Submit it to your class advisor with supporting documents if required."
+        },
+        {
+            "question": "What is the fee structure?",
+            "keywords": ["fee", "fees", "tuition", "payment", "cost"],
+            "answer": "The fee structure varies by department. B.Tech fees are approximately Rs. 1,20,000 per year. For detailed breakdown, please visit the accounts section or check the college website."
+        },
+        {
+            "question": "How to get a bonafide certificate?",
+            "keywords": ["bonafide", "certificate", "verification"],
+            "answer": "Apply for bonafide certificate at the registrar's office with your ID card. It usually takes 2-3 working days. You can also apply online through the student portal."
+        },
+        {
+            "question": "What is the attendance requirement?",
+            "keywords": ["attendance", "minimum", "requirement", "percentage"],
+            "answer": "Minimum 75% attendance is required to be eligible for examinations. Students with less than 75% attendance may be detained from appearing in exams."
+        },
+        {
+            "question": "How to access the WiFi?",
+            "keywords": ["wifi", "internet", "network", "connection"],
+            "answer": "Connect to 'Campus-WiFi' network. Use your student ID as username and your date of birth (DDMMYYYY) as default password. You can change it through the IT portal."
+        },
+        {
+            "question": "Where is the placement cell?",
+            "keywords": ["placement", "career", "job", "recruitment"],
+            "answer": "The Placement Cell is located in the Main Building, 2nd Floor, Room 205. Contact: placement@campus.edu, Phone: +91-9876543240. Office hours: 9:30 AM - 5:00 PM."
+        },
+        {
+            "question": "How to contact my class advisor?",
+            "keywords": ["advisor", "mentor", "counselor", "guide"],
+            "answer": "You can find your class advisor's contact details on the department notice board or the student portal. You can also visit the department office for assistance."
+        },
+        {
+            "question": "What are the library rules?",
+            "keywords": ["library", "books", "borrow", "issue"],
+            "answer": "Students can borrow up to 4 books at a time for 14 days. Fine of Rs. 2 per day for late returns. Reference books cannot be borrowed. Maintain silence in the library."
+        },
+        {
+            "question": "How to apply for scholarship?",
+            "keywords": ["scholarship", "financial", "aid", "merit"],
+            "answer": "Scholarship applications are available at the Dean Students office. Merit-based and need-based scholarships are offered. Apply within the first month of the academic year with required documents."
+        },
+        {
+            "question": "What are the hostel rules?",
+            "keywords": ["hostel", "room", "accommodation", "stay"],
+            "answer": "Hostel timings: In by 9:00 PM. Visitors allowed only in common area till 6:00 PM. Cooking not allowed in rooms. Maintain cleanliness. Report maintenance issues to the warden."
+        }
+    ]
+}

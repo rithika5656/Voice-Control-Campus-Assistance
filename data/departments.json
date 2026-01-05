@@ -1,0 +1,165 @@
+{
+    "departments": {
+        "CSE": {
+            "full_name": "Computer Science and Engineering",
+            "hod": "Dr. Rajesh Sharma",
+            "hod_contact": "cse.hod@campus.edu",
+            "office": "CS Block, Room 201",
+            "phone": "+91-9876543210",
+            "established": 1995,
+            "total_faculty": 25,
+            "total_students": 480,
+            "labs": [
+                "Programming Lab",
+                "Database Lab",
+                "Network Lab",
+                "AI/ML Lab",
+                "Project Lab"
+            ],
+            "courses_offered": [
+                "B.Tech in Computer Science",
+                "M.Tech in Computer Science",
+                "Ph.D in Computer Science"
+            ],
+            "placements": {
+                "average_package": "8.5 LPA",
+                "highest_package": "42 LPA",
+                "placement_rate": "95%"
+            }
+        },
+        "ECE": {
+            "full_name": "Electronics and Communication Engineering",
+            "hod": "Dr. Suresh Reddy",
+            "hod_contact": "ece.hod@campus.edu",
+            "office": "EC Block, Room 201",
+            "phone": "+91-9876543211",
+            "established": 1990,
+            "total_faculty": 22,
+            "total_students": 420,
+            "labs": [
+                "Electronics Lab",
+                "Communication Lab",
+                "VLSI Lab",
+                "Embedded Systems Lab",
+                "Microprocessor Lab"
+            ],
+            "courses_offered": [
+                "B.Tech in Electronics & Communication",
+                "M.Tech in VLSI Design",
+                "Ph.D in Electronics"
+            ],
+            "placements": {
+                "average_package": "7.2 LPA",
+                "highest_package": "35 LPA",
+                "placement_rate": "92%"
+            }
+        },
+        "MECH": {
+            "full_name": "Mechanical Engineering",
+            "hod": "Dr. Venkat Iyer",
+            "hod_contact": "mech.hod@campus.edu",
+            "office": "ME Block, Room 201",
+            "phone": "+91-9876543212",
+            "established": 1985,
+            "total_faculty": 28,
+            "total_students": 500,
+            "labs": [
+                "Thermal Engineering Lab",
+                "Fluid Mechanics Lab",
+                "CAD/CAM Lab",
+                "Manufacturing Lab",
+                "Workshop"
+            ],
+            "courses_offered": [
+                "B.Tech in Mechanical Engineering",
+                "M.Tech in Thermal Engineering",
+                "Ph.D in Mechanical Engineering"
+            ],
+            "placements": {
+                "average_package": "6.8 LPA",
+                "highest_package": "28 LPA",
+                "placement_rate": "88%"
+            }
+        },
+        "CIVIL": {
+            "full_name": "Civil Engineering",
+            "hod": "Dr. Prakash Nair",
+            "hod_contact": "civil.hod@campus.edu",
+            "office": "Civil Block, Room 201",
+            "phone": "+91-9876543213",
+            "established": 1982,
+            "total_faculty": 20,
+            "total_students": 360,
+            "labs": [
+                "Surveying Lab",
+                "Concrete Lab",
+                "Soil Mechanics Lab",
+                "Environmental Lab",
+                "Transportation Lab"
+            ],
+            "courses_offered": [
+                "B.Tech in Civil Engineering",
+                "M.Tech in Structural Engineering",
+                "Ph.D in Civil Engineering"
+            ],
+            "placements": {
+                "average_package": "5.5 LPA",
+                "highest_package": "18 LPA",
+                "placement_rate": "85%"
+            }
+        },
+        "EEE": {
+            "full_name": "Electrical and Electronics Engineering",
+            "hod": "Dr. Krishna Murthy",
+            "hod_contact": "eee.hod@campus.edu",
+            "office": "EE Block, Room 201",
+            "phone": "+91-9876543214",
+            "established": 1988,
+            "total_faculty": 18,
+            "total_students": 300,
+            "labs": [
+                "Electrical Machines Lab",
+                "Power Electronics Lab",
+                "Control Systems Lab",
+                "Power Systems Lab",
+                "Instrumentation Lab"
+            ],
+            "courses_offered": [
+                "B.Tech in Electrical Engineering",
+                "M.Tech in Power Systems",
+                "Ph.D in Electrical Engineering"
+            ],
+            "placements": {
+                "average_package": "6.2 LPA",
+                "highest_package": "22 LPA",
+                "placement_rate": "87%"
+            }
+        }
+    },
+    "administration": {
+        "principal": {
+            "name": "Dr. K. Venkataraman",
+            "office": "Main Building, Room 101",
+            "phone": "+91-9876543200",
+            "email": "principal@campus.edu"
+        },
+        "dean_academics": {
+            "name": "Dr. S. Raghavan",
+            "office": "Main Building, Room 102",
+            "phone": "+91-9876543201",
+            "email": "dean.academics@campus.edu"
+        },
+        "dean_students": {
+            "name": "Dr. M. Lakshmi",
+            "office": "Main Building, Room 103",
+            "phone": "+91-9876543202",
+            "email": "dean.students@campus.edu"
+        },
+        "registrar": {
+            "name": "Mr. R. Krishnan",
+            "office": "Admin Block, Room 001",
+            "phone": "+91-9876543203",
+            "email": "registrar@campus.edu"
+        }
+    }
+}

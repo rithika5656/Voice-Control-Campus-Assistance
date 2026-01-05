@@ -1,0 +1,116 @@
+{
+    "monday": {
+        "CSE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Data Structures", "room": "CS-101", "faculty": "Dr. Sharma"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Operating Systems", "room": "CS-102", "faculty": "Prof. Kumar"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Database Management", "room": "CS-103", "faculty": "Dr. Patel"},
+            {"time": "2:00 PM - 3:00 PM", "subject": "Computer Networks", "room": "CS-104", "faculty": "Prof. Singh"}
+        ],
+        "ECE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Digital Electronics", "room": "EC-101", "faculty": "Dr. Reddy"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Signals & Systems", "room": "EC-102", "faculty": "Prof. Gupta"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Microprocessors", "room": "EC-103", "faculty": "Dr. Verma"},
+            {"time": "2:00 PM - 3:00 PM", "subject": "Communication Systems", "room": "EC-104", "faculty": "Prof. Rao"}
+        ],
+        "MECH": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Thermodynamics", "room": "ME-101", "faculty": "Dr. Iyer"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Fluid Mechanics", "room": "ME-102", "faculty": "Prof. Nair"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Machine Design", "room": "ME-103", "faculty": "Dr. Menon"},
+            {"time": "2:00 PM - 3:00 PM", "subject": "Manufacturing", "room": "ME-104", "faculty": "Prof. Das"}
+        ]
+    },
+    "tuesday": {
+        "CSE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Algorithm Design", "room": "CS-101", "faculty": "Dr. Sharma"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Software Engineering", "room": "CS-102", "faculty": "Prof. Mehta"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Web Development", "room": "CS-Lab1", "faculty": "Dr. Joshi"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "DS Lab", "room": "CS-Lab2", "faculty": "Prof. Kumar"}
+        ],
+        "ECE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "VLSI Design", "room": "EC-101", "faculty": "Dr. Reddy"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Antenna Theory", "room": "EC-102", "faculty": "Prof. Gupta"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Embedded Systems", "room": "EC-Lab1", "faculty": "Dr. Verma"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "Digital Lab", "room": "EC-Lab2", "faculty": "Prof. Rao"}
+        ],
+        "MECH": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Heat Transfer", "room": "ME-101", "faculty": "Dr. Iyer"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "CAD/CAM", "room": "ME-Lab1", "faculty": "Prof. Nair"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Robotics", "room": "ME-103", "faculty": "Dr. Menon"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "Workshop", "room": "ME-Workshop", "faculty": "Prof. Das"}
+        ]
+    },
+    "wednesday": {
+        "CSE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Artificial Intelligence", "room": "CS-101", "faculty": "Dr. Patel"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Machine Learning", "room": "CS-102", "faculty": "Prof. Singh"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Cloud Computing", "room": "CS-103", "faculty": "Dr. Sharma"},
+            {"time": "2:00 PM - 3:00 PM", "subject": "Cyber Security", "room": "CS-104", "faculty": "Prof. Kumar"}
+        ],
+        "ECE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Control Systems", "room": "EC-101", "faculty": "Dr. Reddy"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Power Electronics", "room": "EC-102", "faculty": "Prof. Gupta"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "DSP", "room": "EC-103", "faculty": "Dr. Verma"},
+            {"time": "2:00 PM - 3:00 PM", "subject": "IoT", "room": "EC-104", "faculty": "Prof. Rao"}
+        ],
+        "MECH": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Automobile Engineering", "room": "ME-101", "faculty": "Dr. Iyer"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Industrial Management", "room": "ME-102", "faculty": "Prof. Nair"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Finite Element Analysis", "room": "ME-103", "faculty": "Dr. Menon"},
+            {"time": "2:00 PM - 3:00 PM", "subject": "Power Plant", "room": "ME-104", "faculty": "Prof. Das"}
+        ]
+    },
+    "thursday": {
+        "CSE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Data Structures", "room": "CS-101", "faculty": "Dr. Sharma"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Operating Systems", "room": "CS-102", "faculty": "Prof. Kumar"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Database Management", "room": "CS-103", "faculty": "Dr. Patel"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "DBMS Lab", "room": "CS-Lab1", "faculty": "Dr. Joshi"}
+        ],
+        "ECE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Digital Electronics", "room": "EC-101", "faculty": "Dr. Reddy"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Signals & Systems", "room": "EC-102", "faculty": "Prof. Gupta"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Microprocessors", "room": "EC-103", "faculty": "Dr. Verma"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "Microprocessor Lab", "room": "EC-Lab1", "faculty": "Prof. Rao"}
+        ],
+        "MECH": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Thermodynamics", "room": "ME-101", "faculty": "Dr. Iyer"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Fluid Mechanics", "room": "ME-102", "faculty": "Prof. Nair"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Machine Design", "room": "ME-103", "faculty": "Dr. Menon"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "Thermal Lab", "room": "ME-Lab1", "faculty": "Prof. Das"}
+        ]
+    },
+    "friday": {
+        "CSE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Computer Networks", "room": "CS-101", "faculty": "Prof. Singh"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Algorithm Design", "room": "CS-102", "faculty": "Dr. Sharma"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Software Engineering", "room": "CS-103", "faculty": "Prof. Mehta"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "Project Work", "room": "CS-Lab2", "faculty": "Dr. Patel"}
+        ],
+        "ECE": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Communication Systems", "room": "EC-101", "faculty": "Prof. Rao"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "VLSI Design", "room": "EC-102", "faculty": "Dr. Reddy"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "Antenna Theory", "room": "EC-103", "faculty": "Prof. Gupta"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "Project Work", "room": "EC-Lab2", "faculty": "Dr. Verma"}
+        ],
+        "MECH": [
+            {"time": "9:00 AM - 10:00 AM", "subject": "Manufacturing", "room": "ME-101", "faculty": "Prof. Das"},
+            {"time": "10:00 AM - 11:00 AM", "subject": "Heat Transfer", "room": "ME-102", "faculty": "Dr. Iyer"},
+            {"time": "11:30 AM - 12:30 PM", "subject": "CAD/CAM", "room": "ME-Lab1", "faculty": "Prof. Nair"},
+            {"time": "2:00 PM - 4:00 PM", "subject": "Project Work", "room": "ME-Lab2", "faculty": "Dr. Menon"}
+        ]
+    },
+    "saturday": {
+        "CSE": [
+            {"time": "9:00 AM - 11:00 AM", "subject": "Seminar", "room": "CS-Seminar Hall", "faculty": "All Faculty"},
+            {"time": "11:30 AM - 1:00 PM", "subject": "Guest Lecture", "room": "Main Auditorium", "faculty": "Guest"}
+        ],
+        "ECE": [
+            {"time": "9:00 AM - 11:00 AM", "subject": "Seminar", "room": "EC-Seminar Hall", "faculty": "All Faculty"},
+            {"time": "11:30 AM - 1:00 PM", "subject": "Guest Lecture", "room": "Main Auditorium", "faculty": "Guest"}
+        ],
+        "MECH": [
+            {"time": "9:00 AM - 11:00 AM", "subject": "Seminar", "room": "ME-Seminar Hall", "faculty": "All Faculty"},
+            {"time": "11:30 AM - 1:00 PM", "subject": "Guest Lecture", "room": "Main Auditorium", "faculty": "Guest"}
+        ]
+    }
+}

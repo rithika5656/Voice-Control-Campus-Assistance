@@ -1,0 +1,114 @@
+{
+    "facilities": {
+        "library": {
+            "name": "Central Library",
+            "location": "Library Block",
+            "timings": "8:00 AM - 9:00 PM (Mon-Sat), 9:00 AM - 5:00 PM (Sun)",
+            "total_books": 50000,
+            "digital_resources": "IEEE, Springer, ACM Digital Library",
+            "contact": "+91-9876543220",
+            "services": ["Book lending", "Reading room", "Digital section", "Photocopy", "Reference section"]
+        },
+        "canteen": {
+            "main_canteen": {
+                "location": "Student Center",
+                "timings": "7:30 AM - 8:00 PM",
+                "contact": "+91-9876543221"
+            },
+            "food_court": {
+                "location": "Near Sports Complex",
+                "timings": "9:00 AM - 9:00 PM",
+                "contact": "+91-9876543222"
+            },
+            "coffee_shop": {
+                "location": "Main Building Ground Floor",
+                "timings": "8:00 AM - 6:00 PM",
+                "contact": "+91-9876543223"
+            }
+        },
+        "sports": {
+            "indoor": ["Badminton", "Table Tennis", "Chess", "Carrom", "Gym"],
+            "outdoor": ["Cricket", "Football", "Basketball", "Volleyball", "Tennis", "Athletics"],
+            "sports_complex_timing": "6:00 AM - 8:00 PM",
+            "gym_timing": "6:00 AM - 9:00 PM",
+            "sports_officer": "Mr. Ramesh Kumar",
+            "contact": "+91-9876543224"
+        },
+        "hostel": {
+            "boys_hostel": {
+                "blocks": ["Block A", "Block B", "Block C"],
+                "total_capacity": 1500,
+                "warden": "Dr. P. Subramaniam",
+                "contact": "+91-9876543225"
+            },
+            "girls_hostel": {
+                "blocks": ["Block D", "Block E"],
+                "total_capacity": 800,
+                "warden": "Dr. S. Kavitha",
+                "contact": "+91-9876543226"
+            },
+            "mess_timing": {
+                "breakfast": "7:30 AM - 9:00 AM",
+                "lunch": "12:30 PM - 2:00 PM",
+                "snacks": "4:30 PM - 5:30 PM",
+                "dinner": "7:30 PM - 9:00 PM"
+            }
+        },
+        "medical": {
+            "health_center": "Near Main Gate",
+            "timings": "24/7 Emergency, OPD: 9:00 AM - 5:00 PM",
+            "doctor": "Dr. Anjali Sharma",
+            "contact": "+91-9876543227",
+            "ambulance": "+91-9876543228",
+            "services": ["First Aid", "General Checkup", "Emergency Care", "Pharmacy"]
+        },
+        "transport": {
+            "bus_routes": 15,
+            "total_buses": 25,
+            "timing": "First bus: 7:00 AM, Last bus: 6:30 PM",
+            "transport_officer": "Mr. Vijay Kumar",
+            "contact": "+91-9876543229"
+        }
+    },
+    "events": {
+        "upcoming": [
+            {
+                "name": "Tech Fest 2026",
+                "date": "2026-02-20 to 2026-02-22",
+                "venue": "Main Auditorium & Campus",
+                "description": "Annual technical festival with competitions, workshops, and exhibitions"
+            },
+            {
+                "name": "Cultural Night",
+                "date": "2026-01-26",
+                "venue": "Open Air Theatre",
+                "description": "Republic Day cultural celebrations"
+            },
+            {
+                "name": "Sports Meet",
+                "date": "2026-03-10 to 2026-03-12",
+                "venue": "Sports Complex",
+                "description": "Annual inter-department sports competition"
+            },
+            {
+                "name": "Placement Drive",
+                "date": "2026-01-15 to 2026-01-20",
+                "venue": "Placement Cell",
+                "description": "Campus recruitment by top companies"
+            }
+        ]
+    },
+    "important_contacts": {
+        "emergency": "100",
+        "campus_security": "+91-9876543230",
+        "fire_emergency": "101",
+        "ambulance": "+91-9876543228",
+        "women_helpline": "1091",
+        "police_station": "+91-9876543231"
+    },
+    "working_hours": {
+        "college": "9:00 AM - 5:00 PM (Mon-Fri), 9:00 AM - 1:00 PM (Sat)",
+        "office": "9:30 AM - 5:30 PM (Mon-Fri), 9:30 AM - 1:00 PM (Sat)",
+        "holidays": "Sunday and Government Holidays"
+    }
+}
